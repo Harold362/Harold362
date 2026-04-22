@@ -71,25 +71,25 @@ Here you will find documentation in that explains step by step setup and operati
 
 ## Useful Repositories
 
-1. **[ECR Cleaner](https://github.com/juandariasgomez/ecr-cleaner)**
-2. **[Luanch Ephemeral Jenkins Agents](https://github.com/juandariasgomez/launch-ephemeral-jenkins-agents)**
+1. **[ECR Cleaner](https://github.com/Harold362/ecr-cleaner)**
+2. **[Luanch Ephemeral Jenkins Agents](https://github.com/Harold362/launch-ephemeral-jenkins-agents)**
 
 ---
 
 ## Other guides
 
-1. **[End-to-End for Automated Deployment of Network Functions](https://github.com/juandariasgomez/virtual_resources/wiki/end-to-end-network-func)**
-2. **[Reverse Proxy with Minikube](https://github.com/juandariasgomez/virtual_resources/wiki/reverse-proxy-minikube)**
-3. **[Use of Minikube, Kubectl and Helm](https://github.com/juandariasgomez/virtual_resources/wiki/use-minikube-kubectl-helm)**
+1. **[End-to-End for Automated Deployment of Network Functions](https://github.com/Harold362/virtual_resources/wiki/end-to-end-network-func)**
+2. **[Reverse Proxy with Minikube](https://github.com/Harold362/virtual_resources/wiki/reverse-proxy-minikube)**
+3. **[Use of Minikube, Kubectl and Helm](https://github.com/Harold362/virtual_resources/wiki/use-minikube-kubectl-helm)**
 
 ---
 
 ## Other projects
-1. **[CI/CD Cycle Using GitHub Actions](https://github.com/juandariasgomez/turnos-system.git)**
-2. **[IaC_AWS_Terraform](https://github.com/juandariasgomez/IaC_AWS_Terraform.git)**
+1. **[CI/CD Cycle Using GitHub Actions](https://github.com/Harold362/turnos-system.git)**
+2. **[IaC_AWS_Terraform](https://github.com/Harold362/IaC_AWS_Terraform.git)**
 
 ---
 
 ## 📫 Contact
-📧 **Email:** [juandariasgomez@gmail.com](mailto:juandariasgomez@gmail.com)  
-🔗 **LinkedIn:** [juan-david-arias-gomez-983785176](https://www.linkedin.com/in/juan-david-arias-gomez-983785176/)
+📧 **Email:** [haroldbejaranocorrea94@gmail.com](mailto:haroldbejaranocorrea94@gmail.com)  
+🔗 **LinkedIn:** [harold-bryan-bejarano-correa-12324531b](https://www.linkedin.com/in/harold-bryan-bejarano-correa-12324531b)
